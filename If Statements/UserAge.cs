@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace If_Statements
 {
-    class Program
+    class UserAge
     {
         static void Main(string[] args)
         {

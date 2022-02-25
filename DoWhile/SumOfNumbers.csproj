@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDFE2B03-E0B4-4D38-9D8A-8AE8C3F2F549}</ProjectGuid>
+    <ProjectGuid>{E59EC1A7-1099-4473-8ABA-2B976082CE64}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>If_Statements</RootNamespace>
-    <AssemblyName>If Statements</AssemblyName>
+    <RootNamespace>DoWhile</RootNamespace>
+    <AssemblyName>DoWhile</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UserAge.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
