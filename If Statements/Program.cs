@@ -27,6 +27,7 @@ namespace If_Statements
                 Console.WriteLine("Your entry could not be recongnized. Please try again");
             }
             Console.ReadKey();
+            Console.Clear();
         }
     }
 }
